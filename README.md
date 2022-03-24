@@ -1,12 +1,13 @@
 # Kodluyoruz Ilk Repo
 
-![İlk Repom](https://www.hizliresim.com/f7x9dxh)
+![İlk Repom](https://imgyukle.com/f/2022/03/24/E89WgU.png)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
 Öncelikle projeyi clonelayın. 
+
 `git clone https://github.com/snrustunerciyas/kodluyoruzilkrepo.git`
 
 ## Usage
